@@ -1,7 +1,6 @@
 package RomanToInteger;
 
 import java.util.HashMap;
-import java.util.*;
 
 class Solution {
     public int romanToInt(String s) {
